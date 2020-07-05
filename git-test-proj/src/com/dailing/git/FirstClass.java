@@ -7,10 +7,12 @@ public class FirstClass {
         System.out.println("hello git proj");
         System.out.println("hello git proj");
         System.out.println("hello git proj");
+        System.out.println("hello clone ");
     }
 
     public void test(){
         int i =0;
         i += 10;
+        System.out.println(i);
     }
 }
